@@ -4,7 +4,7 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+94779529221', 'Mr.White Shadow', true]
+  ['94715485468', 'Mr.KalumXz', true]
 ]
 // Put your number here
 // [number, he creator/owner?, he developer?]
@@ -62,7 +62,7 @@ global.APIKeys = { // APIKey Here
 ]
 
 // Sticker WM
-global.packname = `「 Cʀᴇᴀᴛᴇᴅ Bʏ ᴍʀ.ᴡʜɪᴛᴇ ꜱʜᴀᴅᴏᴡ 」`
+global.packname = `By KalumXz`
 global.botdate = `⫹⫺ Day`
 global.bottime = `ᴛɪᴍᴇ:`
 global.author = ''
